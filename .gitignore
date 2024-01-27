@@ -1,0 +1,10 @@
+# Ignore build artifacts
+build/
+bin/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore compiled C++ files
+*.out
+*.o
